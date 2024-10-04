@@ -28,3 +28,6 @@ geo_info.csv:
 
 Формат вывода
 Формат вывода соответствует train_labels.csv.
+
+
+https://cups.online/ru/workareas/innopolis_open_ai/1004/1923?is_sandbox=1 - ссылка для скачивания датафреймов
